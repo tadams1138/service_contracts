@@ -41,10 +41,10 @@ Copyright of all Deliverables created while performing Services for the Client w
 	2. Any portions of the Deliverables whose copyright is withheld by the developer are licensed to the Client for use in the Deliverables under the MIT license: http://www.opensource.org/licenses/mit-license.php
 	3. The Client will only be billed for portions of the Deliverables which were created during the effective period of this contract and created while performing Services for the Client.
 
-5. **Intangible Property**:
+5. **Intangible Property**
 The Developer retains ownership of all Intangibles gained by the Developer (that are not previously owned by the Client) while providing Services.
 
-6. **Changes**:
+6. **Changes**
 Either party may request to modify the terms of this contract at any time. When both parties consent to new terms and a new contract is signed, this contract is terminated immediately.
 
 7. **Indemnification/Liability**
