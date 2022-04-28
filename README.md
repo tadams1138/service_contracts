@@ -18,3 +18,5 @@ You are free to fork away and issue pull-requests.
 
 
 Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+
+Additional content added from https://www.aiga.org/sites/default/files/2022-04/Standard%20form%20of%20agreement_2022%20update.pdf
